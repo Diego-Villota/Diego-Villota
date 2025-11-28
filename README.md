@@ -28,7 +28,8 @@ Proyectos independientes<br>16 y.o<br>Colegio: Unidad Educativa Delfos<br>Grado:
   <li>Lenguaje de programacion favorito: Java / C++</li>
 </ul>
 
-![Top Langs](https://github-readme-stats-git-masterorgs-github-readme-stats-team.vercel.app/api/top-langs/?username=Diego-Villota&layout=compact&theme=dark)
+![Top Langs](https://github-readme-stats-git-masterorgs-github-readme-stats-team.vercel.app/api/top-langs/?username=Diego-Villota&layout=compact&theme=dark&langs_count=10
+)
 ###
 
 <br>
