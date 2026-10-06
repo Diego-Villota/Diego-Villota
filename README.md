@@ -19,7 +19,7 @@ Proyectos independientes<br>16 y.o<br>Colegio: Unidad Educativa Delfos<br>Grado:
 <img align="right" height="125" src="https://i.pinimg.com/originals/f0/f0/d9/f0f0d932d6e39c7af5aa305cbd8da735.gif"  />
 
 #  Sobre mi:
-Hola! Soy Diego Villota, tengo 18 años, soy estudiante de la Universidad Politecnica Salesiana en modalidad<br>virtual, actualmente cursando la carrera de la Ingenieria en software.<br><br>Enlaces de contacto a la izquierda en mi perfil! 
+Hola! Soy Diego Villota, tengo 18 años, soy estudiante de la Universidad Politecnica Salesiana en modalidad<br>virtual, actualmente cursando la carrera de la Ingenieria en software.<br
 
 
 ## Redes Socials:
