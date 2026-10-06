@@ -18,31 +18,19 @@ Proyectos independientes<br>16 y.o<br>Colegio: Unidad Educativa Delfos<br>Grado:
 <!-- Proudly created with GPRM ( https://gprm.itsvg.in ) -->
 <h2 align="left">Hola 👋!</h2> <img align="right" height="125" src="https://i.pinimg.com/originals/f0/f0/d9/f0f0d932d6e39c7af5aa305cbd8da735.gif"  />
 
+# 💫 About Me:
+Hola! Soy Diego Villota, tengo 18 años, soy estudiante de la Universidad Politecnica Salesiana en modalidad<br>virtual, actualmente cursando la carrera de la Ingenieria en software.<br><br>Enlaces de contacto a la izquierda en mi perfil! 
 
 
-<h3>Info:</h3>
-<ul>
-  <li>Pais: Ecuador</li>
-  <li>Estudiante de Tercero Bachillerato</li>
-  <li>Edad: 17 años </li>
-  <li>Lenguaje de programacion favorito: Java / C++</li>
-</ul>
+## 🌐 Socials:
+[![Instagram](https://img.shields.io/badge/Instagram-%23E4405F.svg?logo=Instagram&logoColor=white)](https://instagram.com/diegxo_code) 
 
-![Top Langs](https://github-readme-stats-git-masterorgs-github-readme-stats-team.vercel.app/api/top-langs/?username=Diego-Villota&theme=dark&langs_count=10
-)
-###
+# 💻 Tech Stack:
+![C++](https://img.shields.io/badge/c++-%2300599C.svg?style=for-the-badge&logo=c%2B%2B&logoColor=white) ![C#](https://img.shields.io/badge/c%23-%23239120.svg?style=for-the-badge&logo=csharp&logoColor=white) ![Java](https://img.shields.io/badge/java-%23ED8B00.svg?style=for-the-badge&logo=openjdk&logoColor=white) ![Python](https://img.shields.io/badge/python-3670A0?style=for-the-badge&logo=python&logoColor=ffdd54) ![.Net](https://img.shields.io/badge/.NET-5C2D91?style=for-the-badge&logo=.net&logoColor=white) ![JavaFX](https://img.shields.io/badge/javafx-%23FF0000.svg?style=for-the-badge&logo=javafx&logoColor=white) ![MicrosoftSQLServer](https://img.shields.io/badge/Microsoft%20SQL%20Server-CC2927?style=for-the-badge&logo=microsoft%20sql%20server&logoColor=white) ![Git](https://img.shields.io/badge/git-%23F05033.svg?style=for-the-badge&logo=git&logoColor=white) ![GitHub](https://img.shields.io/badge/github-%23121011.svg?style=for-the-badge&logo=github&logoColor=white)
+# 📊 GitHub Stats:
+![](https://github-readme-stats.shion.dev/api?username=Diego-Villota&theme=dark&hide_border=false&include_all_commits=false&count_private=false)<br/>
+![](https://streak-stats.demolab.com/?user=Diego-Villota&theme=dark&hide_border=false)<br/>
+![](https://github-readme-stats.shion.dev/api/top-langs/?username=Diego-Villota&theme=dark&hide_border=false&include_all_commits=false&count_private=false&layout=compact)
 
-<br>
-
-
-
-<br>
-
-###
-
-
-###
-
-
-###
+<!-- Proudly created with GPRM ( https://gprm.itsvg.in ) -->
 
